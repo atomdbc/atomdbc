@@ -1,38 +1,42 @@
-# Hey there! 👋 I'm Samuel Lemikan
+# Hey there! I'm Samuel Lemikan
 
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=Samuel%20Lemikan&fontSize=80&fontAlign=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Architect&descAlign=70&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Applications;Python+%7C+JavaScript+%7C+TypeScript+%7C+AI%2FML;AWS+Cloud+Architect+%26+DevOps+Engineer;Always+innovating+with+cutting-edge+tech)](https://git.io/typing-svg)
-
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const samuel = {
     name: "Samuel Lemikan",
-    location: "Nigeria 🇳🇬",
+    location: "Nigeria",
     role: "AI Engineer & Full-Stack Developer",
     pronouns: "He/Him",
     code: ["Python", "JavaScript", "TypeScript", "C", "Go", "Rust"],
     specializations: {
         artificialIntelligence: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-        aiAgents: ["LangChain", "AutoGPT", "CrewAI", "Semantic Kernel"],
+        aiAgents: ["LangChain", "AutoGPT", "CrewAI", "OpenAI API"],
         cloudArchitecture: ["AWS", "GCP", "Azure", "Serverless", "Microservices"],
         fullStackDev: ["React", "Next.js", "Node.js", "FastAPI", "Django"]
     },
     currentFocus: "Building AI-powered applications and autonomous agent systems",
-    funFact: "I train neural networks and debug with console.log! 🤖🐛"
+    funFact: "I train neural networks and debug with console.log"
 };
 ```
 
-## 🤖 AI & Machine Learning Stack
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Applications;Python+%7C+JavaScript+%7C+TypeScript+%7C+AI%2FML;AWS+Cloud+Architect+%26+DevOps+Engineer;Always+innovating+with+cutting-edge+tech)](https://git.io/typing-svg)
+
+</div>
+
+## AI & Machine Learning Stack
 
 <div align="center">
 
-### 🧠 AI/ML Frameworks & Libraries
+### AI/ML Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -40,40 +44,39 @@ const samuel = {
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 AI Agents & LLM Frameworks
+### AI Agents & LLM Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![AutoGPT](https://img.shields.io/badge/AutoGPT-4285F4?style=for-the-badge&logo=auto&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CD7D32?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### 📊 Data Science & Analytics
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Data Science & Analytics
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🌐 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frontend Development
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -83,7 +86,7 @@ const samuel = {
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### ⚡ Backend Development
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -92,16 +95,17 @@ const samuel = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🗄️ Databases & Storage
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -111,22 +115,22 @@ const samuel = {
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 📱 Mobile Development
+### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
-### 🧪 Testing & Quality Assurance
+### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -135,11 +139,11 @@ const samuel = {
 
 </div>
 
-## 📊 GitHub Analytics & Statistics
+## GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomdbc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Samuel's%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomdbc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomdbc&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -152,37 +156,11 @@ const samuel = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atomdbc&theme=tokyo-night&hide_border=true&custom_title=Samuel's%20Contribution%20Graph)
-
-</div>
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=atomdbc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
-## 🌟 Featured Projects & Repositories
-
-<div align="center">
-
-### 🤖 AI & Machine Learning Projects
-[![AI Business Intelligence Platform](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=ai-business-intelligence&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/ai-business-intelligence)
-[![Smart Document Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=smart-document-analyzer&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/smart-document-analyzer)
-
-### 🌐 Full-Stack Applications
-[![E-Commerce AI Platform](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=ecommerce-ai-platform&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/ecommerce-ai-platform)
-[![Real-Time Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=realtime-chat-app&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/realtime-chat-app)
-
-### 🛠️ DevOps & Infrastructure
-[![Kubernetes ML Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=k8s-ml-pipeline&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/k8s-ml-pipeline)
-[![AWS Serverless Architecture](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=aws-serverless-architecture&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/aws-serverless-architecture)
-
-</div>
-
-## 📈 Contribution Timeline
+## Contribution Graph
 
 <div align="center">
   
@@ -190,30 +168,56 @@ const samuel = {
 
 </div>
 
-## 💼 Professional Experience & Skills
+## Activity Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atomdbc&theme=tokyo-night&hide_border=true)
+
+</div>
+
+## Professional Experience
 
 <div align="center">
 
 | Domain | Technologies | Experience Level |
 |--------|-------------|------------------|
-| **AI/ML Engineering** | TensorFlow, PyTorch, LangChain, OpenAI | ⭐⭐⭐⭐⭐ |
-| **Cloud Architecture** | AWS, GCP, Azure, Serverless | ⭐⭐⭐⭐⭐ |
-| **Full-Stack Development** | React, Node.js, Python, TypeScript | ⭐⭐⭐⭐⭐ |
-| **DevOps & Infrastructure** | Docker, Kubernetes, CI/CD | ⭐⭐⭐⭐ |
-| **Data Engineering** | Apache Spark, Kafka, ETL Pipelines | ⭐⭐⭐⭐ |
-| **Mobile Development** | React Native, Flutter | ⭐⭐⭐⭐ |
+| **AI/ML Engineering** | TensorFlow, PyTorch, LangChain, OpenAI | Advanced |
+| **Cloud Architecture** | AWS, GCP, Azure, Serverless | Advanced |
+| **Full-Stack Development** | React, Node.js, Python, TypeScript | Advanced |
+| **DevOps & Infrastructure** | Docker, Kubernetes, CI/CD | Intermediate |
+| **Data Engineering** | Apache Spark, Kafka, ETL Pipelines | Intermediate |
+| **Mobile Development** | React Native, Flutter | Intermediate |
 
 </div>
 
-## 🎯 Current Focus & Learning
+## Featured Projects
 
-- 🤖 **AI Agents & Autonomous Systems**: Building intelligent agents with LangChain and CrewAI
-- 🏗️ **Cloud-Native Architecture**: Designing scalable systems on AWS and Kubernetes
-- 🧠 **Advanced Machine Learning**: Deep learning, NLP, and computer vision projects
-- 🚀 **Modern Web Technologies**: Next.js 14, Server Components, and Edge Computing
-- 🔐 **AI Safety & Ethics**: Responsible AI development and model governance
+<div align="center">
 
-## 🤝 Let's Connect & Collaborate
+### AI & Machine Learning Projects
+[![MemoMate](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=memomate&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/memomate)
+
+### Full-Stack Applications
+[![Business Manager](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=business-manager&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/business-manager)
+[![Social Media Backend](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=social-media-backend&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/social-media-backend)
+[![Stripe Checkout Sample](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=stripe-checkout-sample&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/stripe-checkout-sample)
+
+### DevOps & Infrastructure
+[![ZK Proof Integration](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=zkproof-integration&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/zkproof-integration)
+[![Upload Wasabi](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=upload-wasabi&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/upload-wasabi)
+
+</div>
+
+## Current Focus
+
+- **AI Agents & Autonomous Systems**: Building intelligent agents with LangChain and CrewAI
+- **Cloud-Native Architecture**: Designing scalable systems on AWS and Kubernetes  
+- **Advanced Machine Learning**: Deep learning, NLP, and computer vision projects
+- **Modern Web Technologies**: Next.js 14, Server Components, and Edge Computing
+- **AI Safety & Ethics**: Responsible AI development and model governance
+
+## Connect with Me
 
 <div align="center">
 
@@ -226,15 +230,7 @@ const samuel = {
 
 </div>
 
-## 📊 Detailed Analytics
-
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/atomdbc?template=classic&config.timezone=Africa%2FLagos&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin.lines=yes&plugin.traffic=yes&plugin.languages=yes&plugin.followup=yes&plugin.projects=yes)
-
-</div>
-
-## 💰 Support My Work & Open Source Contributions
+## Support My Work
 
 <div align="center">
 
@@ -244,7 +240,7 @@ const samuel = {
 
 </div>
 
-## 📊 Visitor Analytics
+## Visitor Count
 
 <div align="center">
   
@@ -257,11 +253,11 @@ const samuel = {
 
 <div align="center">
 
-### 🚀 "Building the future, one commit at a time"
+### Building the future, one commit at a time
 
-*Passionate about creating intelligent systems that make a difference. Always open to collaboration and innovative projects!*
+*Passionate about creating intelligent systems that make a difference. Always open to collaboration and innovative projects.*
 
-### Show some ❤️ by starring repositories that interest you!
+### Show some love by starring repositories that interest you
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=120&section=footer)
 
