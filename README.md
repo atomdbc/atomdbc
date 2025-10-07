@@ -1,251 +1,108 @@
-# Hey there! I'm Samuel Lemikan
+# Samuel Lemikan
 
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=Samuel%20Lemikan&fontSize=80&fontAlign=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Architect&descAlign=70&descAlignY=55)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=AI+Engineer+%7C+Solutions+Architect;Building+Intelligent+Systems)
+
+
 
 </div>
 
-## About Me
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&labelColor=000000)](https://samcraft.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/samuellemikan)
+[![Email](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:samuel@samuellemikan.dev)
+[![Twitter](https://img.shields.io/badge/@atombdc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/atombdc)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 ```typescript
-const samuel = {
-    name: "Samuel Lemikan",
-    location: "Nigeria",
-    role: "AI Engineer & Full-Stack Developer",
-    pronouns: "He/Him",
-    code: ["Python", "JavaScript", "TypeScript", "C", "Go", "Rust"],
-    specializations: {
-        artificialIntelligence: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-        aiAgents: ["LangChain", "AutoGPT", "CrewAI", "OpenAI API"],
-        cloudArchitecture: ["AWS", "GCP", "Azure", "Serverless", "Microservices"],
-        fullStackDev: ["React", "Next.js", "Node.js", "FastAPI", "Django"]
-    },
-    currentFocus: "Building AI-powered applications and autonomous agent systems",
-    funFact: "I train neural networks and debug with console.log"
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  expertise: string[];
+  currentFocus: string;
+  openTo: string[];
+}
+
+const samuel: Developer = {
+  name: "Samuel Lemikan",
+  role: "AI Engineer & Cloud Architect",
+  location: "Nigeria 🇳🇬",
+  expertise: [
+    "Machine Learning & Deep Learning",
+    "LLM Applications & AI Agents",
+    "Cloud Infrastructure (AWS, GCP, Azure)",
+    "Full-Stack Development",
+    "Microservices Architecture"
+  ],
+  currentFocus: "Building autonomous AI agent systems",
+  openTo: ["Collaboration", "Innovation", "Open Source"]
 };
 ```
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Applications;Python+%7C+JavaScript+%7C+TypeScript+%7C+AI%2FML;AWS+Cloud+Architect+%26+DevOps+Engineer;Always+innovating+with+cutting-edge+tech)](https://git.io/typing-svg)
+### 💻 Tech Arsenal
 
 </div>
 
-## AI & Machine Learning Stack
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI/ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-### AI/ML Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 📊 GitHub Analytics
 
-### AI Agents & LLM Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/AutoGPT-4285F4?style=for-the-badge&logo=auto&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CD7D32?style=for-the-badge&logo=anthropic&logoColor=white)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atomdbc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_radius=8"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=atomdbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=8"/>
 
-### Data Science & Analytics
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-
-</div>
-
-## Tech Stack
-
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-</div>
-
-## GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomdbc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomdbc&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atomdbc&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=atomdbc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/atomdbc/atomdbc/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atomdbc&theme=tokyo-night&hide_border=true)
-
-</div>
-
-## Professional Experience
-
-<div align="center">
-
-| Domain | Technologies | Experience Level |
-|--------|-------------|------------------|
-| **AI/ML Engineering** | TensorFlow, PyTorch, LangChain, OpenAI | Advanced |
-| **Cloud Architecture** | AWS, GCP, Azure, Serverless | Advanced |
-| **Full-Stack Development** | React, Node.js, Python, TypeScript | Advanced |
-| **DevOps & Infrastructure** | Docker, Kubernetes, CI/CD | Intermediate |
-| **Data Engineering** | Apache Spark, Kafka, ETL Pipelines | Intermediate |
-| **Mobile Development** | React Native, Flutter | Intermediate |
-
-</div>
-
-## Featured Projects
-
-<div align="center">
-
-### AI & Machine Learning Projects
-[![MemoMate](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=memomate&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/memomate)
-
-### Full-Stack Applications
-[![Business Manager](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=business-manager&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/business-manager)
-[![Social Media Backend](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=social-media-backend&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/social-media-backend)
-[![Stripe Checkout Sample](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=stripe-checkout-sample&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/stripe-checkout-sample)
-
-### DevOps & Infrastructure
-[![ZK Proof Integration](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=zkproof-integration&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/zkproof-integration)
-[![Upload Wasabi](https://github-readme-stats.vercel.app/api/pin/?username=atomdbc&repo=upload-wasabi&theme=tokyonight&hide_border=true)](https://github.com/atomdbc/upload-wasabi)
-
-</div>
-
-## Current Focus
-
-- **AI Agents & Autonomous Systems**: Building intelligent agents with LangChain and CrewAI
-- **Cloud-Native Architecture**: Designing scalable systems on AWS and Kubernetes  
-- **Advanced Machine Learning**: Deep learning, NLP, and computer vision projects
-- **Modern Web Technologies**: Next.js 14, Server Components, and Edge Computing
-- **AI Safety & Ethics**: Responsible AI development and model governance
-
-## Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://samcraft.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellemikan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/atombdc)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/atomdbc)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@atomdbc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel@samuellemikan.dev)
-
-</div>
-
-## Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atomdbc)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atomdbc)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/atomdbc)
-
-</div>
-
-## Visitor Count
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/atomdbc/count.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=atomdbc&label=Profile%20views&color=0e75b6&style=flat)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=atomdbc&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
 
 </div>
 
@@ -253,12 +110,181 @@ const samuel = {
 
 <div align="center">
 
-### Building the future, one commit at a time
+## 🎯 Current Focus
 
-*Passionate about creating intelligent systems that make a difference. Always open to collaboration and innovative projects.*
+</div>
 
-### Show some love by starring repositories that interest you
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.ai_agents = "Building multi-agent systems with LangChain & CrewAI"
+        self.cloud_architecture = "Designing scalable serverless solutions"
+        self.machine_learning = "NLP models for production environments"
+        self.web3 = "Exploring blockchain integration with AI"
+    
+    def daily_routine(self):
+        return [
+            "☕ Coffee + Code",
+            "🧠 Train models",
+            "🚀 Ship features",
+            "📚 Learn something new",
+            "🔄 Repeat"
+        ]
+```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=120&section=footer)
+---
+
+<div align="center">
+
+## 🏆 Achievements
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=atomdbc&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?)](https://github.com/atomdbc)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📂 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 MemoMate
+**AI-Powered Memory Assistant**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+> Intelligent memory management system using LLMs and vector databases
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/memomate)
+
+</td>
+<td width="50%">
+
+### 💼 Business Manager
+**Full-Stack SaaS Platform**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+> Modern business management solution with real-time analytics
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/business-manager)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 ZK Proof Integration
+**Zero-Knowledge Cryptography**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+> Advanced cryptographic proofs for privacy-preserving applications
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/zkproof-integration)
+
+</td>
+<td width="50%">
+
+### 🌐 Social Media Backend
+**Scalable API Infrastructure**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+> High-performance social media backend with WebSocket support
+
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/social-media-backend)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💡 What I'm Learning
+
+![](https://img.shields.io/badge/🧠_Advanced_Reinforcement_Learning-181717?style=for-the-badge)
+![](https://img.shields.io/badge/⚡_Edge_Computing-181717?style=for-the-badge)
+![](https://img.shields.io/badge/🔐_Zero_Knowledge_Proofs-181717?style=for-the-badge)
+![](https://img.shields.io/badge/🌐_Web3_Integration-181717?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon: Building Production-Ready AI Agents
+- Coming Soon: Serverless Architecture Best Practices
+- Coming Soon: Machine Learning Model Deployment Guide
+<!-- BLOG-POST-LIST:END -->
+
+[![Dev.to](https://img.shields.io/badge/Read_More-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/atomdbc)
+[![Medium](https://img.shields.io/badge/Read_More-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@atomdbc)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![Portfolio](https://img.shields.io/badge/🌐_WEBSITE-samcraft.vercel.app-00D9FF?style=for-the-badge&labelColor=000000)](https://samcraft.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Samuel_Lemikan-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/samuellemikan)
+[![Email](https://img.shields.io/badge/📧_EMAIL-samuel@samuellemikan.dev-EA4335?style=for-the-badge&labelColor=000000)](mailto:samuel@samuellemikan.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💖 Support My Work
+
+If you find my projects helpful, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&labelColor=000000)](https://buymeacoffee.com/atomdbc)
+[![GitHub Sponsors](https://img.shields.io/badge/💝_Sponsor-EA4AAA?style=for-the-badge&labelColor=000000)](https://github.com/sponsors/atomdbc)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/atomdbc/atomdbc/output/github-contribution-grid-snake-dark.svg)
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=atomdbc&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
+
+**"Building the future, one commit at a time"** 🚀
+
+<sub>⭐ From [atomdbc](https://github.com/atomdbc) | Made with 💙 and ☕</sub>
 
 </div>
