@@ -34,7 +34,7 @@ interface Developer {
 const samuel: Developer = {
   name: "Samuel Lemikan",
   role: "AI Engineer & Cloud Architect",
-  location: "Nigeria 🇳🇬",
+  location: "Building From Anywhere",
   expertise: [
     "Machine Learning & Deep Learning",
     "LLM Applications & AI Agents",
