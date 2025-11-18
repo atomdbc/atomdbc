@@ -65,9 +65,9 @@ My work applies advanced AI and Web3 technologies to real business challenges: s
 **Zero-Knowledge Cryptography**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-JS-000000?style=flat-square&logo=js&logoColor=white)
 
-> Privacy-preserving validation framework using Rust & Go for verifiable computation.
+> Privacy-preserving validation framework using Circom & JS for verifiable computation.
 
 [![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/zkproof-integration)
 
