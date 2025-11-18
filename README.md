@@ -1,10 +1,5 @@
-# Samuel Lemikan
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=AI+Engineer+%7C+Web3+Specialist;Building+Autonomous+Decentralized+Systems)
-
-</div>
+# Samuel Lemikan — Software Engineer
+### (AI Engineering & Web3 Systems)
 
 <div align="center">
   
@@ -15,22 +10,50 @@
 
 </div>
 
+> I am a software engineer specializing in the convergence of **artificial intelligence**, **distributed systems**, and **blockchain architecture**. I build production-ready systems that are measurable, repeatable, and resilient.
+
 ---
 
-## 🚀 Strategic Value
+## 🚀 Strategic Focus
 
-I am an **AI Engineer & Web3 Specialist** focused on a single mission: building intelligent, autonomous systems for the decentralized web.
+My work applies advanced AI and Web3 technologies to real business challenges: system optimization, predictive intelligence, and decentralized logic.
 
-I don't just build chatbots or DApps. I create **AI-driven utility** for blockchain protocols and **on-chain agentic systems** that can analyze, predict, and act.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-* **For AI Companies:** I integrate Web3 for provable, decentralized, and secure AI operations.
-* **For Web3 Companies:** I build AI/LLM layers to drive token utility, analyze market data, and automate protocol functions.
+### 🤖 Applied AI Engineering
+* Multi-agent systems & autonomous workflows
+* Retrieval-Augmented Generation (RAG) for business intelligence
+* Predictive analytics & intelligent automation
+* AI-driven process optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web3 Systems Engineering
+* Smart contract architectures & protocol logic
+* Zero-Knowledge (ZK) proof systems
+* On-chain automation & agentic actions
+* Blockchain integration with traditional software
+
+</td>
+</tr>
+</table>
+
+---
+
+## Core Engineering Principles
+
+* **Reliability Over Novelty:** New tech is only useful when grounded in stable engineering. I build systems that endure predictable behavior and maintainable complexity.
+* **Intelligence Where It Matters:** I integrate intelligence deeply into workflows and data infrastructure to create practical, measurable value.
+* **Verifiability & Transparency:** I design with determinism in mind: traceable execution, cryptographic assurance, and decentralized decision paths.
 
 ---
 
 <div align="center">
 
-## 📂 Proof of Work (Specialist Projects)
+## 📂 Proof of Work (Selected Projects)
 
 </div>
 
@@ -44,7 +67,7 @@ I don't just build chatbots or DApps. I create **AI-driven utility** for blockch
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-> Advanced cryptographic proofs for privacy-preserving applications and on-chain security.
+> Privacy-preserving validation framework using Rust & Go for verifiable computation.
 
 [![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/zkproof-integration)
 
@@ -52,12 +75,12 @@ I don't just build chatbots or DApps. I create **AI-driven utility** for blockch
 <td width="50%">
 
 ### 🤖 MemoMate
-**AI-Powered Memory Assistant**
+**AI-Powered Memory System**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 
-> Intelligent memory management system using LLMs and vector databases for complex data retrieval.
+> Long-term reasoning & memory architecture for AI systems using vector indexing and LLM pipelines.
 
 [![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/memomate)
 
@@ -66,28 +89,28 @@ I don't just build chatbots or DApps. I create **AI-driven utility** for blockch
 <tr>
 <td width="50%">
 
-### 🧠 [YOUR NEXT AI AGENT PROJECT]
-**e.g., On-Chain AI Analyst**
+### 💼 Business Manager Platform
+**AI-Infused SaaS Platform**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-CrewAI-1C3C3C?style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square)
 
-> e.g., An autonomous agent that monitors whale wallets and DEX liquidity pools to predict market shifts.
+> Full-stack SaaS with analytics, workflow automation, and an extensible AI integration layer.
 
-[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/YOUR-PROJECT-LINK)
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/business-manager)
 
 </td>
 <td width="50%">
 
-### 💼 Business Manager
-**AI-Infused SaaS Platform**
+### 🌐 Social Media Backend
+**Scalable API Infrastructure**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-> Full-stack management solution with AI-powered analytics and decision-making modules.
+> Real-time application backend built for high concurrency, system throughput, and data integrity.
 
-[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/business-manager)
+[![View](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/atomdbc/social-media-backend)
 
 </td>
 </tr>
@@ -97,32 +120,43 @@ I don't just build chatbots or DApps. I create **AI-driven utility** for blockch
 
 <div align="center">
 
-### 💻 Specialized Arsenal
+## 🛠️ Tooling & Technologies
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width"33%" valign="top">
 
-#### 🤖 AI / ML
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+#### Languages
+* Python
+* TypeScript
+* Go
+* Rust
+* Solidity
+* SQL
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🌐 Web3 & Cloud Infrastructure
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+#### AI & Data Systems
+* Transformers
+* LangChain / CrewAI
+* Vector Databases
+* Inference Pipelines
+* FastAPI / Node.js
+* PostgreSQL / Redis
+
+</td>
+<td width="33%" valign="top">
+
+#### Cloud & Web3
+* AWS / GCP
+* Docker / Kubernetes
+* CI/CD Pipelines
+* EVM / Smart Contracts
+* ZK Systems
+* On-Chain Event Listeners
 
 </td>
 </tr>
@@ -134,23 +168,15 @@ I don't just build chatbots or DApps. I create **AI-driven utility** for blockch
 
 ## 📊 GitHub Analytics
 
+*(Social proof. Placed at the bottom, after the value proposition.)*
+
+<br>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atomdbc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_radius=8"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=atomdbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=8"/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=atomdbc&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
 
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-Open to high-impact collaboration & strategic opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Samuel_Lemikan-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/samuellemikan)
-[![Email](https://img.shields.io/badge/📧_EMAIL-samuel@samuellemikan.dev-EA4335?style=for-the-badge&labelColor=000000)](mailto:samuel@samuellemikan.dev)
-[![Upwork](https://img.shields.io/badge/HIRE_ME-6FDA44?style=for-the-badge&logo=upwork&logoColor=black&labelColor=000000)](https://www.upwork.com/freelancers/~0160d5c2a84ee761d3)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=atomdbc&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?)](https://github.com/atomdbc)
 
 </div>
